@@ -1,3 +1,7 @@
+
+<img width="542" height="214" alt="image" src="https://github.com/user-attachments/assets/f4c6385d-13db-4b20-a331-db28ccac04b2" />
+
+
 # Hi there 👋, I'm Sajid Islam
 
 ## 🚀 About Me
@@ -49,6 +53,7 @@ Scripts and utilities that automate repetitive workflows and business processes.
 - LinkedIn: https://www.linkedin.com/in/sajidislamchowdhury/
 - HugginFace: https://huggingface.co/spaces/Sajid-ul-Islam/
 - Streamlit: https://share.streamlit.io/user/saajiidi
+- Portfolio: https://sajid-ul-islam.github.io/
 - Email: sajid.islam.chowdhury@gmail.com
 
 ---
