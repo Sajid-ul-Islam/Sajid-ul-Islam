@@ -12,56 +12,6 @@ My interests include:
 - 📈 Growth Analytics
 - ⚙️ Process Automation
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- SQL
-- C/C++
-- HTML
-- CSS
-
-### Frameworks & Libraries
-- Dash
-- Flask
-- Pandas
-- NumPy
-- Plotly
-- Scikit-learn
-
-### Databases
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Linux
-
-### Currently Exploring
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Product Analytics
-- Cloud Technologies
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Current Focus
 
@@ -96,9 +46,10 @@ Scripts and utilities that automate repetitive workflows and business processes.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://YOUR_WEBSITE.com
-- Email: YOUR_EMAIL@example.com
+- LinkedIn: https://www.linkedin.com/in/sajidislamchowdhury/
+- HugginFace: https://huggingface.co/spaces/Sajid-ul-Islam/
+- Streamlit: https://share.streamlit.io/user/saajiidi
+- Email: sajid.islam.chowdhury@gmail.com
 
 ---
 
