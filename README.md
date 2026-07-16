@@ -1,6 +1,7 @@
 
-https://img.itch.zone/aW1hZ2UvMTk2OTQ5LzExMDQ1NzAuZ2lm/original/8WpSu7.gif
-
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMTk2OTQ5LzExMDQ1NzAuZ2lm/original/8WpSu7.gif" alt="Banner" width="100%">
+</p>
 
 # Hi there 👋, I'm Sajid Islam
 
