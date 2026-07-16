@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTk2OTQ5LzExMDQ1NzAuZ2lm/original/8WpSu7.gif" alt="Banner" width="100%">
-</p>
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0147348f-c187-4301-a823-64d94cccf8a8" />
+
 
 # Hi there 👋, I'm Sajid Islam
 
