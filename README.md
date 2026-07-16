@@ -1,5 +1,5 @@
 
-<img width="542" height="214" alt="image" src="https://github.com/user-attachments/assets/f4c6385d-13db-4b20-a331-db28ccac04b2" />
+<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/f4c6385d-13db-4b20-a331-db28ccac04b2" />
 
 
 # Hi there 👋, I'm Sajid Islam
