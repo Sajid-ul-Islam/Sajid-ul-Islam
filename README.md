@@ -63,14 +63,14 @@ My interests include:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Sajid-ul-Islam &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Streak Stats](https://streak-stats.demolab.com/?user=Sajid-ul-Islam &theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Sajid-ul-Islam &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sajid-ul-Islam &limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streak Stats](https://streak-stats.demolab.com/?user=Sajid-ul-Islam&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sajid-ul-Islam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Sajid-ul-Islam &icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Counter](https://komarev.com/ghpvc/?username=Sajid-ul-Islam&icon=0&color=0)](https://visitcount.itsvg.in
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
