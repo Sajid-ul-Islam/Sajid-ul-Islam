@@ -1,0 +1,31 @@
+name: Update README stats
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Stats Image
+        uses: akhilesh-nandwana1811/readme-stats-action@v1
+        with:
+          github_user_name: "Sajid-ul-Islam"
+          output_file: stats.svg
+          theme: "dark"
+          hide: "issues"
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update GitHub stats [skip ci]" || exit 0
+          git push
