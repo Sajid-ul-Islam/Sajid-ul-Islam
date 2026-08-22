@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://github.com/Sajid-ul-Islam",
+      "permanent": true
+    }
+  ]
+}

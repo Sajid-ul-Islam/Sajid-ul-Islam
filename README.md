@@ -107,7 +107,7 @@ Scripts and utilities that automate repetitive workflows and business processes.
 - 🔗 **LinkedIn:** [@sajidislamchowdhury](https://www.linkedin.com/in/sajidislamchowdhury/)
 - 🤗 **Hugging Face:** [@Sajid-ul-Islam](https://huggingface.co/spaces/Sajid-ul-Islam/)
 - 🟦 **Streamlit:** [@saajiidi](https://share.streamlit.io/user/saajiidi)
-- 🌐 **Portfolio:** [sajid-ul-islam.github.io](https://sajid-ul-islam.github.io/)
+- 🌐 **Portfolio:** [sajid-ul-islam.vercel.app](https://sajid-ul-islam.vercel.app/)
 - 📧 **Email:** [sajid.islam.chowdhury@gmail.com](mailto:sajid.islam.chowdhury@gmail.com)
 
 ---
