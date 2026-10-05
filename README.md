@@ -90,8 +90,8 @@ I'm a Product & Data professional with a background in Computer Science, passion
 | 💻 **[Interactive VS Code Portfolio](https://github.com/Sajid-ul-Islam/Portfolio-nextjs)** <br/>([Live Demo](https://sajid-ul-islam.vercel.app/)) | Full-featured, interactive developer portfolio replicating VS Code UX in the browser. | Next.js, React, TypeScript, TailwindCSS |
 | 📱 **[Cross E-Commerce Mobile Apps](https://github.com/Sajid-ul-Islam/Cross_Ecom_Apps)** | Scalable cross-platform mobile shopping architecture engineered for high concurrency and fluid UX. | React Native, Expo, TypeScript |
 | ⚙️ **[DEEN-OPS & Order Automation](https://github.com/Sajid-ul-Islam/DEEN-OPS)** | End-to-end operational automation engine streamlining delivery parsing, courier tracking, and order workflows. | Python, Selenium, Automation APIs |
-| 📊 **[SAAS-BI & Catwise Analytics](https://github.com/Sajid-ul-Islam/SAAS-BI)** | Business intelligence suite delivering category-level analytics, customer cohort tracking, and KPI dashboards. | Python, Pandas, Plotly, Streamlit |
-| 🤖 **[LangGraph AI Agents Pipeline](https://github.com/Sajid-ul-Islam/langgraph-demo)** | Multi-agent autonomous workflow pipeline demonstrating LLM agent orchestration and cyclic graphs. | LangGraph, LangChain, Python |
+| 🛒 **[Ecom Vision Dashboard](https://e-com-dashborad.vercel.app/)** <br/>([Live Demo](https://e-com-dashborad.vercel.app/)) | Interactive e-commerce KPI dashboard tracking multi-year revenue, orders, customers, and AOV performance trends. | React, Vite, TailwindCSS, Analytics |
+| 🎓 **[Thriving Skills Mobile App](https://github.com/Sajid-ul-Islam/thrivingskill.app)** <br/>([Platform](https://thrivingskill.com/)) | Cross-platform edtech mobile app featuring Google Gemini AI career mentor, dual-language engine, and B2B corporate workspaces. | React Native, Expo, TypeScript, Gemini API |
 
 ---
 
@@ -112,8 +112,8 @@ I'm a Product & Data professional with a background in Computer Science, passion
   <a href="https://github.com/Sajid-ul-Islam/Cross_Ecom_Apps">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sajid-ul-Islam&repo=Cross_Ecom_Apps&theme=dark" alt="Cross_Ecom_Apps" />
   </a>
-  <a href="https://github.com/Sajid-ul-Islam/Portfolio-nextjs">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sajid-ul-Islam&repo=Portfolio-nextjs&theme=dark" alt="Portfolio-nextjs" />
+  <a href="https://github.com/Sajid-ul-Islam/thrivingskill.app">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sajid-ul-Islam&repo=thrivingskill.app&theme=dark" alt="thrivingskill.app" />
   </a>
 </p>
 
