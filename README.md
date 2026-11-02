@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" title="Click to view animated version">
-    <img width="1200" height="675" alt="Sajid Islam - JavaScript-powered cover with gradient background and decorative particles. Click to see animation!" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-static.svg" />
+    <img width="1200" height="675" alt="Sajid Islam - JavaScript-powered cover with gradient background. Click to see animation!" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-simple.svg" />
   </a>
 </div>
 

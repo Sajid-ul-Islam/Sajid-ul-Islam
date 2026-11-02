@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+<stop offset="0%" stop-color="#1e3a8a"/>
+<stop offset="100%" stop-color="#06b6d4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">Sajid Islam</text>
+<text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="rgba(255,255,255,0.9)">Co-Founder at CybrCraft</text>
+<text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.8)">Forward Deployed Engineer</text>
+<text x="600" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">Building AI-driven applications & scalable systems</text>
+<text x="1100" y="650" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">Powered by JavaScript</text>
+</svg>
