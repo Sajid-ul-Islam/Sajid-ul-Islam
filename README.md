@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="675" alt="Sajid Islam - Professional Banner showing name, title, and contact information" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/banner.svg" />
+  <img width="1200" height="675" alt="Sajid Islam - Animated JavaScript-powered cover with floating particles and gradient background" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" />
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand emoji" />, I'm Sajid Islam</h1>
@@ -164,6 +164,30 @@ I'm a Product & Data professional with a background in Computer Science, passion
 - <img src="https://img.icons8.com/color/48/000000/code-fork.png" width="16px" alt="Fork icon" /> Expand open-source contributions across React Native, AI, and workflow automation
 - <img src="https://img.icons8.com/color/48/000000/cloud.png" width="16px" alt="Cloud icon" /> Continually master distributed systems architecture and forward-deployed engineering
 - <img src="https://img.icons8.com/color/48/000000/handshake.png" width="16px" alt="Handshake icon" /> Collaborate with developers and product teams worldwide
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/code.png" width="16px" alt="Code icon" /> JavaScript Cover
+
+<p align="center">
+  <strong>This profile features a custom JavaScript-powered animated cover!</strong>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" title="View animated SVG cover">
+    <img src="https://img.shields.io/badge/View_Animated_Cover-SVG-FF6F00?style=for-the-badge&logo=svg&logoColor=white" alt="View animated cover badge" />
+  </a>
+  <a href="https://github.com/Sajid-ul-Islam/Sajid-ul-Islam/blob/main/assets/cover.js" title="View JavaScript source">
+    <img src="https://img.shields.io/badge/View_JS_Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="View JavaScript code badge" />
+  </a>
+  <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover.html" title="View interactive demo">
+    <img src="https://img.shields.io/badge/Interactive_Demo-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Interactive demo badge" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Features: Animated gradient background, floating particles, pulsing text, and smooth fade-in effects - all powered by JavaScript!</em>
+</p>
 
 ---
 
