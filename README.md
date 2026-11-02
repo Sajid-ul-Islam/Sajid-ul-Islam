@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="1200" height="675" alt="Sajid Islam - Animated JavaScript-powered cover with floating particles and gradient background" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" />
+  <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" title="Click to view animated version">
+    <img width="1200" height="675" alt="Sajid Islam - JavaScript-powered cover with gradient background and decorative particles. Click to see animation!" src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-static.svg" />
+  </a>
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand emoji" />, I'm Sajid Islam</h1>
@@ -183,6 +185,10 @@ I'm a Product & Data professional with a background in Computer Science, passion
   <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover.html" title="View interactive demo">
     <img src="https://img.shields.io/badge/Interactive_Demo-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Interactive demo badge" />
   </a>
+</p>
+
+<p align="center">
+  <em>Note: GitHub's markdown renderer doesn't support SVG animations. Click the banner above or the "View Animated Cover" button to see the full animation with floating particles, gradient transitions, and pulsing text effects!</em>
 </p>
 
 <p align="center">
