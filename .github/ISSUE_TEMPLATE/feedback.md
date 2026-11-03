@@ -1,23 +1,21 @@
+---
 name: Feedback
-about: Share feedback about my profile or projects
+about: Share feedback about this profile or a project
 title: "[Feedback] "
-labels: feedback
 assignees: Sajid-ul-Islam
-
 ---
 
-**Feedback Type**
+## Feedback type
 - [ ] Bug report
 - [ ] Feature request
 - [ ] General feedback
-- [ ] Praise
 - [ ] Other
 
-**Description**
-A clear and concise description of your feedback.
+## Description
+Describe your feedback clearly.
 
-**Related Project/Section**
-Which project or section of my profile does this relate to?
+## Related project or section
+Where did you notice this?
 
-**Additional Context**
-Add any other context or screenshots about the feedback here.
+## Additional context
+Add relevant links or screenshots if useful.

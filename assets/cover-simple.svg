@@ -1,14 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
-<defs>
-<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-<stop offset="0%" stop-color="#1e3a8a"/>
-<stop offset="100%" stop-color="#06b6d4"/>
-</linearGradient>
-</defs>
-<rect width="1200" height="675" fill="url(#bg)"/>
-<text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">Sajid Islam</text>
-<text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="rgba(255,255,255,0.9)">Co-Founder at CybrCraft</text>
-<text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.8)">Forward Deployed Engineer</text>
-<text x="600" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">Building AI-driven applications & scalable systems</text>
-<text x="1100" y="650" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">Powered by JavaScript</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090B2A"/>
+      <stop offset="52%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="52%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#A5B4FC" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#grid)"/>
+  <circle cx="1030" cy="80" r="310" fill="url(#glow)"/>
+  <circle cx="140" cy="470" r="240" fill="url(#glow)" opacity=".55"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55">
+    <circle cx="1010" cy="250" r="145"/>
+    <circle cx="1010" cy="250" r="185" stroke-dasharray="8 14"/>
+    <circle cx="1010" cy="250" r="225" stroke-dasharray="2 18"/>
+  </g>
+  <g fill="#67E8F9" opacity=".8">
+    <circle cx="850" cy="105" r="4"/><circle cx="1115" cy="130" r="5"/>
+    <circle cx="1125" cy="370" r="3"/><circle cx="900" cy="410" r="4"/>
+    <circle cx="730" cy="160" r="3"/><circle cx="760" cy="350" r="5"/>
+  </g>
+  <rect x="100" y="104" width="350" height="42" rx="21" fill="#312E81" stroke="#818CF8" stroke-opacity=".75"/>
+  <circle cx="124" cy="125" r="6" fill="#34D399"/>
+  <text x="144" y="132" font-family="Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="2" fill="#C4B5FD">PRODUCT · AI · ENGINEERING</text>
+  <text x="96" y="235" font-family="Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="#FFFFFF">Sajid Islam</text>
+  <rect x="100" y="260" width="420" height="6" rx="3" fill="url(#accent)"/>
+  <text x="100" y="320" font-family="Arial, sans-serif" font-size="29" font-weight="bold" fill="#FFFFFF">Co-Founder at CybrCraft</text>
+  <text x="100" y="365" font-family="Arial, sans-serif" font-size="25" fill="#C7D2FE">Forward Deployed Engineer</text>
+  <text x="100" y="425" font-family="Arial, sans-serif" font-size="20" fill="#E0E7FF">Building AI-powered products and intelligent systems.</text>
+  <g transform="translate(870 208)">
+    <rect width="245" height="90" rx="18" fill="#0F172A" fill-opacity=".65" stroke="#A5B4FC" stroke-opacity=".45"/>
+    <text x="122" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#A5F3FC">IDEAS → SYSTEMS</text>
+    <text x="122" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">→ REAL PRODUCTS</text>
+  </g>
+  <text x="1100" y="480" text-anchor="end" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#A5B4FC">SAJID-UL-ISLAM · GITHUB</text>
 </svg>

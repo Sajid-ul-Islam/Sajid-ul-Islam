@@ -1,15 +1,28 @@
 {
   "ignorePatterns": [
-    "^https://github.com/.*",
-    "^https://img.shields.io/.*",
-    "^https://github-readme-stats.shion.dev/.*",
-    "^https://streak-stats.demolab.com/.*",
-    "^https://komarev.com/.*",
-    "^https://vercel.app/.*",
-    "^https://cybrcraft.com/.*",
-    "mailto:*"
+    {
+      "pattern": "^https://img\\.shields\\.io/"
+    },
+    {
+      "pattern": "^https://github-readme-stats\\.vercel\\.app/"
+    },
+    {
+      "pattern": "^https://streak-stats\\.demolab\\.com/"
+    },
+    {
+      "pattern": "^https://komarev\\.com/"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/"
+    },
+    {
+      "pattern": "^https://thrivingskill\\.com/"
+    }
   ],
-  "baseUrl": "https://github.com/Sajid-ul-Islam/Sajid-ul-Islam",
-  "maxDepth": 0,
-  "checkExternal": true
+  "aliveStatusCodes": [
+    200,
+    206,
+    429
+  ],
+  "timeout": 20000
 }
