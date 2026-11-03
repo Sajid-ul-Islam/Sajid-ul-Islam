@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-simple.svg" width="100%" alt="Sajid Islam — Co-Founder at CybrCraft and Forward Deployed Engineer" />
   </a>
 
-  # Sajid Islam
+  <h1>Sajid Islam</h1>
 
   **Co-Founder at [CybrCraft](https://cybrcraft.com/) · Forward Deployed Engineer · Product & Data**
 
