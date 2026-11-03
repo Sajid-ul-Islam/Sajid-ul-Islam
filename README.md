@@ -123,22 +123,22 @@ I'm a product-minded engineer working at the intersection of **AI, software engi
 ## 📈 GitHub at a Glance
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub statistics showing commits, contributions, and repositories" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub statistics showing commits, contributions, and repositories" />
   <img height="180" src="https://streak-stats.demolab.com/?user=Sajid-ul-Islam&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub streak statistics showing daily contribution streaks" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top programming languages by repository usage" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top programming languages by repository usage" />
 </div>
 
 ### ⭐ Top Repositories
 
 <div align="center">
   <a href="https://github.com/Sajid-ul-Islam/Cross_Ecom_Apps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=Cross_Ecom_Apps&theme=dark&cache_seconds=86400" alt="Cross E-Commerce Apps repository statistics" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=Cross_Ecom_Apps&theme=dark&cache_seconds=86400" alt="Cross E-Commerce Apps repository statistics" />
   </a>
   <a href="https://github.com/Sajid-ul-Islam/thrivingskill.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=thrivingskill.app&theme=dark&cache_seconds=86400" alt="Thriving Skills App repository statistics" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=thrivingskill.app&theme=dark&cache_seconds=86400" alt="Thriving Skills App repository statistics" />
   </a>
 </div>
 
