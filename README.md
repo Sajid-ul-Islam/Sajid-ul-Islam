@@ -67,7 +67,6 @@ I work across product thinking, software engineering, and analytics. I enjoy tur
 - **Website:** [sajid-ul-islam.vercel.app](https://sajid-ul-islam.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/sajidislamchowdhury](https://www.linkedin.com/in/sajidislamchowdhury/)
 - **Hugging Face:** [Sajid-ul-Islam](https://huggingface.co/Sajid-ul-Islam)
-- **Streamlit:** [@saajiidi](https://streamlit.io/@saajiidi)
 - **Email:** [sajid.islam.chowdhury@gmail.com](mailto:sajid.islam.chowdhury@gmail.com)
 
 ---
