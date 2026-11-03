@@ -6,5 +6,5 @@
     { "pattern": "^https://komarev\\.com/" }
   ],
   "aliveStatusCodes": [200, 206, 429],
-  "timeout": "20s"
+  "timeout": 20000
 }
