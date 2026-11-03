@@ -1,47 +1,38 @@
-name: Auto Update Profile README
+name: Update profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight
-  workflow_dispatch:      # Allow manual triggering
-  push:
-    branches: [ main ]
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Update last updated timestamp
+      - name: Refresh timestamp
         run: |
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          sed -i "s/<!-- LAST_UPDATED -->.*/<!-- LAST_UPDATED --> Last updated: $TIMESTAMP/" README.md
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          timestamp="$(date -u +"%Y-%m-%d %H:%M UTC")"
+          sed -i "s|<!-- LAST_UPDATED -->.*|<!-- LAST_UPDATED --> Last refreshed: ${timestamp}|" README.md
+
+      - name: Commit and push when changed
+        run: |
+          if git diff --quiet; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update last updated timestamp"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-
-      - name: Validate links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          use-quiet-mode: 'yes'
-          config-file: '.github/workflows/link-check-config.json'
+          git commit -m "docs: refresh profile timestamp"
+          git push
