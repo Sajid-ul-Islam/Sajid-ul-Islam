@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-animated.svg" title="Open the animated cover">
-    <img src="https://raw.githubusercontent.com/Sajid-ul-Islam/Sajid-ul-Islam/main/assets/cover-simple.svg" width="100%" alt="Sajid Islam — Co-Founder at CybrCraft, Forward Deployed Engineer, building AI-powered products" />
+  <a href="./assets/cover-animated.svg" title="Open the animated cover">
+    <img src="./assets/cover-simple.svg" width="100%" alt="Sajid Islam — Co-Founder at CybrCraft, Forward Deployed Engineer, building AI-powered products" />
   </a>
 
   <h1>Hey, I'm Sajid Islam 👋</h1>
