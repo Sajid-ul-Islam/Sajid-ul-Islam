@@ -1,10 +1,28 @@
 {
   "ignorePatterns": [
-    { "pattern": "^https://img\\.shields\\.io/" },
-    { "pattern": "^https://github-readme-stats\\.vercel\\.app/" },
-    { "pattern": "^https://streak-stats\\.demolab\\.com/" },
-    { "pattern": "^https://komarev\\.com/" }
+    {
+      "pattern": "^https://img\\.shields\\.io/"
+    },
+    {
+      "pattern": "^https://github-readme-stats\\.vercel\\.app/"
+    },
+    {
+      "pattern": "^https://streak-stats\\.demolab\\.com/"
+    },
+    {
+      "pattern": "^https://komarev\\.com/"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/"
+    },
+    {
+      "pattern": "^https://thrivingskill\\.com/"
+    }
   ],
-  "aliveStatusCodes": [200, 206, 429],
+  "aliveStatusCodes": [
+    200,
+    206,
+    429
+  ],
   "timeout": 20000
 }
