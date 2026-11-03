@@ -123,12 +123,23 @@ I'm a product-minded engineer working at the intersection of **AI, software engi
 ## 📈 GitHub at a Glance
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sajid-ul-Islam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=E6EDF3" alt="Sajid's GitHub statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=Sajid-ul-Islam&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=8B949E" alt="Sajid's GitHub contribution streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub statistics showing commits, contributions, and repositories" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Sajid-ul-Islam&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub streak statistics showing daily contribution streaks" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sajid-ul-Islam&bg_color=0D1117&color=E6EDF3&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-ul-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top programming languages by repository usage" />
+</div>
+
+### ⭐ Top Repositories
+
+<div align="center">
+  <a href="https://github.com/Sajid-ul-Islam/Cross_Ecom_Apps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=Cross_Ecom_Apps&theme=dark&cache_seconds=86400" alt="Cross E-Commerce Apps repository statistics" />
+  </a>
+  <a href="https://github.com/Sajid-ul-Islam/thrivingskill.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajid-ul-Islam&repo=thrivingskill.app&theme=dark&cache_seconds=86400" alt="Thriving Skills App repository statistics" />
+  </a>
 </div>
 
 ## 🤝 Let's Connect
