@@ -72,11 +72,11 @@
     <text x="0" y="-40" class="subtitle" font-family="'Segoe UI', Arial, sans-serif" font-size="36" fill="rgba(255, 255, 255, 0.9)">Co-Founder at CybrCraft &#183; Forward Deployed Engineer</text>
     
     <!-- Tagline with Fade In -->
-    <text x="0" y="40" class="tagline" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="rgba(255, 255, 255, 0.8)">Building AI-driven applications & scalable systems</text>
+    <text x="0" y="40" class="tagline" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="rgba(255, 255, 255, 0.8)">Building AI-driven applications &amp; scalable systems</text>
     
     <!-- Contact Info -->
     <text x="0" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="rgba(255, 255, 255, 0.7)">
-      Portfolio: sajid-ul-islam.vercel.app &nbsp;&nbsp;|&nbsp;&nbsp; LinkedIn: @sajidislamchowdhury
+      Portfolio: sajid-ul-islam.vercel.app &#160;&#160;|&#160;&#160; LinkedIn: @sajidislamchowdhury
     </text>
   </g>
   
